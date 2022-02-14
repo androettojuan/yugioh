@@ -1,0 +1,18 @@
+.carta{
+    width: 10%;
+    display: inline-block;
+    padding: 20px
+}
+
+.carta .titulo{    
+    text-align: center;
+    font-size: 8px;
+    color: rgb(0, 0, 0);    
+}
+
+.carta .titulo
+
+.carta .img{
+    text-align: center;
+    max-width: 100%;
+}

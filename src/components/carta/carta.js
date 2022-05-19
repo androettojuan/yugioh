@@ -5,7 +5,7 @@ const Carta = ({ img, name, descripcion, tipo }) => {
   return (
     <div className="carta">
       <div className="img">
-        <img src={img} />
+        <img src={img} alt="foto" />
       </div>
       <div className="titulo">
         <h1>{name}</h1>
